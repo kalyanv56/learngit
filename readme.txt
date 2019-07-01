@@ -9,3 +9,5 @@ Revision 2 -- Performing the stash operation
 
 
 Revision 3 --  Performing branch push operations.
+
+Revision 4 -- Performing conflict tackling
